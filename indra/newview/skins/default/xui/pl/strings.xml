@@ -6789,4 +6789,7 @@ Twoja aktualna pozycja: [AVATAR_POS]
 	<string name="FSAvatarAlignToggleFull">
 		Pełne
 	</string>
+	<string name="FSMacOSNewViewerInstance">
+		Nowa instancja przeglądarki
+	</string>
 </strings>

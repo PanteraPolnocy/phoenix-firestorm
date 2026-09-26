@@ -7602,4 +7602,7 @@ SecondLife.com網站的「支援」部分
 	<string name="OmnifilterDefaultName">
 		預設
 	</string>
+	<string name="FSMacOSNewViewerInstance">
+		新查看器執行個體
+	</string>
 </strings>
